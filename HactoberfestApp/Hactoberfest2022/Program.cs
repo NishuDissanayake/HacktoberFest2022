@@ -6,7 +6,7 @@ namespace Hactoberfest2022
     {
         static void Main(string[] args)
         {
-            
+            CreateHostBuilder(args).Build().Run();
         }
     }
 }
