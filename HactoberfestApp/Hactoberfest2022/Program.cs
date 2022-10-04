@@ -39,6 +39,7 @@ namespace Hactoberfest2022
                 default:
                     break;
             }
+            CreateHostBuilder(args).Build().Run();
         }
     }
 }
