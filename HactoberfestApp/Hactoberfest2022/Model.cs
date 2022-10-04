@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Hactoberfest2022
 {
-    public class inheritance
+    public class Model
     {
        
     }

@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Hactoberfest2022/1.0.0": {
-        "dependencies": {
-          "CalLibrary": "1.0.0"
-        },
-        "runtime": {
-          "Hactoberfest2022.dll": {}
-        }
-      },
       "CalLibrary/1.0.0": {
         "runtime": {
           "CalLibrary.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "Hactoberfest2022/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "CalLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,

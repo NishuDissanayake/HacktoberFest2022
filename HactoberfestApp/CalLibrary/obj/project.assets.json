@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
-      "CalLibrary/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/CalLibrary.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/CalLibrary.dll": {}
-        }
-      }
-    }
+    ".NETCoreApp,Version=v3.1": {}
   },
-  "libraries": {
-    "CalLibrary/1.0.0": {
-      "type": "project",
-      "path": "../CalLibrary/CalLibrary.csproj",
-      "msbuildProject": "../CalLibrary/CalLibrary.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
-      "CalLibrary >= 1.0.0"
-    ]
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
     "C:\\Users\\admin\\.nuget\\packages\\": {},
@@ -33,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Project\\Hacktoberfest 2022\\HacktoberFest2022\\HactoberfestApp\\Hactoberfest2022\\Hactoberfest2022.csproj",
-      "projectName": "Hactoberfest2022",
-      "projectPath": "E:\\Project\\Hacktoberfest 2022\\HacktoberFest2022\\HactoberfestApp\\Hactoberfest2022\\Hactoberfest2022.csproj",
+      "projectUniqueName": "E:\\Project\\Hacktoberfest 2022\\HacktoberFest2022\\HactoberfestApp\\CalLibrary\\CalLibrary.csproj",
+      "projectName": "CalLibrary",
+      "projectPath": "E:\\Project\\Hacktoberfest 2022\\HacktoberFest2022\\HactoberfestApp\\CalLibrary\\CalLibrary.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "E:\\Project\\Hacktoberfest 2022\\HacktoberFest2022\\HactoberfestApp\\Hactoberfest2022\\obj\\",
+      "outputPath": "E:\\Project\\Hacktoberfest 2022\\HacktoberFest2022\\HactoberfestApp\\CalLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -57,11 +38,7 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {
-            "E:\\Project\\Hacktoberfest 2022\\HacktoberFest2022\\HactoberfestApp\\CalLibrary\\CalLibrary.csproj": {
-              "projectPath": "E:\\Project\\Hacktoberfest 2022\\HacktoberFest2022\\HactoberfestApp\\CalLibrary\\CalLibrary.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
