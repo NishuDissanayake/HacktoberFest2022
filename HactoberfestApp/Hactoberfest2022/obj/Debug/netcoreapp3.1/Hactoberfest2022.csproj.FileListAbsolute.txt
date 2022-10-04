@@ -1,0 +1,14 @@
+D:\Hacktoberfest22\HacktoberFest2022\HactoberfestApp\Hactoberfest2022\bin\Debug\netcoreapp3.1\Hactoberfest2022.exe
+D:\Hacktoberfest22\HacktoberFest2022\HactoberfestApp\Hactoberfest2022\bin\Debug\netcoreapp3.1\Hactoberfest2022.deps.json
+D:\Hacktoberfest22\HacktoberFest2022\HactoberfestApp\Hactoberfest2022\bin\Debug\netcoreapp3.1\Hactoberfest2022.runtimeconfig.json
+D:\Hacktoberfest22\HacktoberFest2022\HactoberfestApp\Hactoberfest2022\bin\Debug\netcoreapp3.1\Hactoberfest2022.runtimeconfig.dev.json
+D:\Hacktoberfest22\HacktoberFest2022\HactoberfestApp\Hactoberfest2022\bin\Debug\netcoreapp3.1\Hactoberfest2022.dll
+D:\Hacktoberfest22\HacktoberFest2022\HactoberfestApp\Hactoberfest2022\bin\Debug\netcoreapp3.1\Hactoberfest2022.pdb
+D:\Hacktoberfest22\HacktoberFest2022\HactoberfestApp\Hactoberfest2022\obj\Debug\netcoreapp3.1\Hactoberfest2022.csproj.AssemblyReference.cache
+D:\Hacktoberfest22\HacktoberFest2022\HactoberfestApp\Hactoberfest2022\obj\Debug\netcoreapp3.1\Hactoberfest2022.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hacktoberfest22\HacktoberFest2022\HactoberfestApp\Hactoberfest2022\obj\Debug\netcoreapp3.1\Hactoberfest2022.AssemblyInfoInputs.cache
+D:\Hacktoberfest22\HacktoberFest2022\HactoberfestApp\Hactoberfest2022\obj\Debug\netcoreapp3.1\Hactoberfest2022.AssemblyInfo.cs
+D:\Hacktoberfest22\HacktoberFest2022\HactoberfestApp\Hactoberfest2022\obj\Debug\netcoreapp3.1\Hactoberfest2022.csproj.CoreCompileInputs.cache
+D:\Hacktoberfest22\HacktoberFest2022\HactoberfestApp\Hactoberfest2022\obj\Debug\netcoreapp3.1\Hactoberfest2022.dll
+D:\Hacktoberfest22\HacktoberFest2022\HactoberfestApp\Hactoberfest2022\obj\Debug\netcoreapp3.1\Hactoberfest2022.pdb
+D:\Hacktoberfest22\HacktoberFest2022\HactoberfestApp\Hactoberfest2022\obj\Debug\netcoreapp3.1\Hactoberfest2022.genruntimeconfig.cache
