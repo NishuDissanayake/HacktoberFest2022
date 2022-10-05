@@ -1,11 +1,12 @@
-﻿using System;
-using CalLibrary;
+﻿using CalLibrary;
+
+using System;
 
 namespace Hactoberfest2022
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             Console.WriteLine("Enter a number : ");
             double num1 = double.Parse(Console.ReadLine());
@@ -25,7 +26,7 @@ namespace Hactoberfest2022
                     break;
 
                 case '-':
-                    Console.WriteLine("Not yet implemented");
+                    Console.WriteLine(Calculations.Subtraction(num1, num2));
                     break;
 
                 case '*':
@@ -39,7 +40,6 @@ namespace Hactoberfest2022
                 default:
                     break;
             }
-            CreateHostBuilder(args).Build().Run();
         }
     }
 }
