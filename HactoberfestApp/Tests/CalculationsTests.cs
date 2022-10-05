@@ -8,9 +8,8 @@ namespace Tests
 {
 	public class CalculationsTests
 	{
-
 		[Fact]
-		public void Given_Num1_And_Num2_When_Addition_Should_ReturnExpetedResult()
+		public void Given_Num1_And_Num2_When_Addition_Then_ReturnExpetedResult()
 		{
 			//Arrange
 			int num1 = 2;
