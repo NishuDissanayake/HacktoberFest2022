@@ -8,10 +8,10 @@ namespace Hactoberfest2022
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine("Enter a number : ");
+            Console.WriteLine("Enter a Number : ");
             double num1 = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("Enter a number : ");
+            Console.WriteLine("Enter a Number : ");
             double num2 = double.Parse(Console.ReadLine());
 
             Console.WriteLine("Select a Operation [+, -, *, /]");
